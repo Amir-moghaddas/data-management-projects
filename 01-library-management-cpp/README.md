@@ -1,4 +1,4 @@
-# 📚 mp2
+# 🗄️ University Database Projects
 
 University course projects 🎓
 
